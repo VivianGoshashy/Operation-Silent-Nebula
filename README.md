@@ -25,3 +25,4 @@ git clone https://github.com/yourusername/operation-silent-nebula.git
 cd operation-silent-nebula
 chmod +x setup_environment.sh
 ./setup_environment.sh
+```
